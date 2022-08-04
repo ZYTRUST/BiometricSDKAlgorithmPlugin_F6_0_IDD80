@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://idemia.com"
   s.license      = { :type => "Copyright", :text => "Copyright by Idemia" }
   s.author       = "Idemia"
-  s.platform     = :ios, "10.0"
+  s.platform     = :ios, "11.0"
   s.source       = { :git => "https://github.com/ZYTRUST/BiometricSDKAlgorithmPlugin_F6_0_IDD80.git", :tag => "4.32.1" }
   s.requires_arc = true
   s.vendored_frameworks = "BiometricSDKAlgorithmPlugin_F6_0_IDD80.xcframework"
