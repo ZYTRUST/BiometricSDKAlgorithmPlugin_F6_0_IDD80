@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BiometricSDKAlgorithmPlugin_F6_0_IDD80"
-  s.version      = "4.33.0"
+  s.version      = "4.34.0"
   s.summary      = "The BiometricSDKUIExtensions library is targeted to developers who want to use already prepared UI controls for CR2D."
   s.description  = <<-DESC
           The BiometricSDKUIExtensions library is targeted to developers who want to use already prepared UI controls for CR2D.
