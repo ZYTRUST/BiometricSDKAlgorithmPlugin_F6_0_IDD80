@@ -1,0 +1,6 @@
+framework module BiometricSDKAlgorithmPlugin_F6_0_IDD80 {
+  umbrella header "BiometricSDKAlgorithmPlugin_F6_0_IDD80-umbrella.h"
+
+  export *
+  module * { export * }
+}
