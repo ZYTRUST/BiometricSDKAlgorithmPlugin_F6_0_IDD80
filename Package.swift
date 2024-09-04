@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BiometricSDKAlgorithmPlugin_F6_0_IDD80",
-            path: "BiometricSDKAlgorithmPlugin_F6_0_IDD80.xcframework"
+            path: "Sources/BiometricSDKAlgorithmPlugin_F6_0_IDD80.xcframework"
         )
     ]
 )
