@@ -5,7 +5,7 @@ let package = Package(
     name: "BiometricSDKAlgorithmPlugin_F6_0_IDD80",
     defaultLocalization: "es",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v11)
     ],
     products: [
         .library(
