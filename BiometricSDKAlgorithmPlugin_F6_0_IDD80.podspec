@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BiometricSDKAlgorithmPlugin_F6_0_IDD80"
-  s.version      = "4.34.7"
+  s.version      = "4.34.8"
   s.summary      = "The BiometricSDKUIExtensions library is targeted to developers who want to use already prepared UI controls for CR2D."
   s.description  = <<-DESC
           The BiometricSDKUIExtensions library is targeted to developers who want to use already prepared UI controls for CR2D.
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "Copyright", :text => "Copyright by Idemia" }
   s.author       = "Idemia"
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/ZYTRUST/BiometricSDKAlgorithmPlugin_F6_0_IDD80.git", :tag => "4.34.6" }
+  s.source       = { :git => "https://github.com/ZYTRUST/BiometricSDKAlgorithmPlugin_F6_0_IDD80.git", :tag => "4.34.8" }
   s.requires_arc = true
   s.vendored_frameworks = "Sources/BiometricSDKAlgorithmPlugin_F6_0_IDD80.xcframework"
 end
