@@ -4,56 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/BiometricSDKAlgorithmPlugin_F6_0_IDD80-umbrella.h</key>
+		<key>Headers/SimulatorStub.h</key>
 		<data>
-		me3TOxDikt7xlD0M/kNY0jOAHOA=
-		</data>
-		<key>Headers/BiometricSDKAlgorithmPlugin_F6_0_IDD80.h</key>
-		<data>
-		7E7rAEZQIlAJ65XhCYKZnkwQIa4=
+		6XeTkzy6GQtUMX++Z0wSj/wopaM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		c6dCC5QJZtPShNJyL28T1ZKc+mU=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		zQMoWbYkVNKli2r9EQ2/rEvW1kI=
+		7a/nUXLcoAzWg0Nq2Wddnwr4vtY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/BiometricSDKAlgorithmPlugin_F6_0_IDD80-umbrella.h</key>
+		<key>Headers/SimulatorStub.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			me3TOxDikt7xlD0M/kNY0jOAHOA=
-			</data>
 			<key>hash2</key>
 			<data>
-			E2YlRUCFGiGqWoqARYEiwbdSq2d3rbWwHlN5CPtsoDM=
-			</data>
-		</dict>
-		<key>Headers/BiometricSDKAlgorithmPlugin_F6_0_IDD80.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7E7rAEZQIlAJ65XhCYKZnkwQIa4=
-			</data>
-			<key>hash2</key>
-			<data>
-			EAJ3VdMvmXfv3lrjt3tVYSMUVCcUX251ZlLr2nv9W2s=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zQMoWbYkVNKli2r9EQ2/rEvW1kI=
-			</data>
-			<key>hash2</key>
-			<data>
-			0BJjwCroF4AF9ogCJzXbxSMjfp1jStvHmVrL31eUhSg=
+			0ml0iWj8ZMm8A20efHf6bvW5bwLGWDdf+pg2UQ3vj0I=
 			</data>
 		</dict>
 	</dict>
